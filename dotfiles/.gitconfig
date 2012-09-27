@@ -1,0 +1,7 @@
+[user]
+	name = Charles Ying
+	email = cying@flipboard.com
+[branch]
+	autosetuprebase = always
+[push]
+	default = tracking
